@@ -1,7 +1,3 @@
-*/*
-bin/*
-!*/install
-!*/uninstall
-!*/install-root-*
-!*/upgrade
-!*/test
+target_ips.txt
+*.log
+secrets/
